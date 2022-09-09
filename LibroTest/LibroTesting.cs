@@ -18,7 +18,7 @@ namespace LibroTest
             var venta = new BookStore();
             venta.AddToCart(l1);
             var costo = venta.GetTotal();
-            Assert.AreEqual();
+            
 
         }
     }
